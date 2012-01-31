@@ -1543,6 +1543,5 @@
             </intent-filter>
             <meta-data android:name="android.appwidget.provider" android:resource="@xml/appwidget_info" />
         </receiver>
-
     </application>
 </manifest>
